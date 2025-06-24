@@ -1,9 +1,12 @@
 
 <h1 align="center">✨ Hey there! I'm <span style="color:#00F0FF;">Marudhu</span> 👋</h1>
 
+<h1 align="center">✨ Hey there! I'm <span style="color:#00F0FF;">Marudhu</span> 👋</h1>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&multiline=true&width=750&lines=Engineering+Student+%7C+AI+%26+Data+Science;Linux+Lover+%7C+Full+Stack+Explorer+%7C+Dev+In+Progress;Let's+Build%2C+Learn%2C+and+Grow+Together+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Engineering+Student+in+AI+%26+Data+Science;Linux+%7C+Web+Dev+%7C+AI+Explorer;Let's+Build%2C+Learn+%26+Grow+Together!+🚀" />
 </div>
+
 
 ---
 
@@ -44,8 +47,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marudhu30&show_icons=true&theme=radical&rank_icon=github&custom_title=Marudhu's+Code+Stats" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=marudhu30&theme=radical&border_radius=8&fire=EB5454&ring=6AE3E1&dates=F4F4F4" />
-  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marudhu30&theme=radical&hide_border=false&border_radius=8.4" />
+
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marudhu30&layout=compact&theme=radical&langs_count=10" />
 </div>
 
