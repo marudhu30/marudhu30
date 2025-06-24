@@ -1,7 +1,6 @@
 
 <h1 align="center">✨ Hey there! I'm <span style="color:#00F0FF;">Marudhu</span> 👋</h1>
 
-<h1 align="center">✨ Hey there! I'm <span style="color:#00F0FF;">Marudhu</span> 👋</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Engineering+Student+in+AI+%26+Data+Science;Linux+%7C+Web+Dev+%7C+AI+Explorer;Let's+Build%2C+Learn+%26+Grow+Together!+🚀" />
