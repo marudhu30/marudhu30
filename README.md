@@ -4,30 +4,27 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&multiline=true&width=750&lines=Engineering+Student+%7C+AI+%26+Data+Science;Linux+Lover+%7C+Full+Stack+Explorer+%7C+Dev+In+Progress;Let's+Build%2C+Learn%2C+and+Grow+Together+🚀" />
 </div>
-<br>
-<br>
-<br>
+
 ---
 
 ## 🧬 About Me
 
 ```yaml
 🧠 Mindset:   Calm | Focused | Curious
-🛠️ Tech:      AI • Full Stack • Linux • Git
-🎯 Goal:      Master Full-Stack Dev + AI by 2026
+🛠️ Tech:      By the way i use ARCH
 🎧 Mood:      Music + Code = Flow 🎵
 ```
 
 - 🐧 Currently exploring: **Linux Ricing + Web Dev + AI Projects**
 - 💬 Ask me about: Anything tech, productivity, or One Piece theories 🤓
-- 🎓 UG student diving deep into dev & life
+- 🎓 Second-year student diving deep into dev & life
 
 ---
 
 ## ⚒️ Tech Stack I Use & Love
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,c,linux,bash,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,c,linux,bash,git,github,vscode&perline=7" />
 </div>
 
 ---
@@ -42,16 +39,14 @@
 
 ---
 
-## 📊 GitHub Stats 
+## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=marudhu30&show_icons=true&theme=radical&rank_icon=github&custom_title=Marudhu's+Code+Stats" />
-
-<img src="https://streak-stats.demolab.com?user=marudhu30&theme=radical&border_radius=8&fire=EB5454&ring=6AE3E1&dates=F4F4F4" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marudhu30&layout=compact&theme=radical&langs_count=10" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=marudhu30&show_icons=true&theme=radical&rank_icon=github&custom_title=Marudhu's+Code+Stats" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=marudhu30&theme=radical&border_radius=8&fire=EB5454&ring=6AE3E1&dates=F4F4F4" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marudhu30&layout=compact&theme=radical&langs_count=10" />
 </div>
 
 ---
@@ -60,7 +55,7 @@
 
 <p align="center">
   <a href="https://github.com/marudhu30"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:marudhub81@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -68,6 +63,7 @@
 ## 🌠 Fun Side of Me
 
 - 🧭 I navigate life like Linux: **terminal focused**  
+- 🎮 nerd and a techie   
 - 🔥 Always cooking ideas & dreaming in **code & colors**  
 
 ---
