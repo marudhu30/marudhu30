@@ -1,10 +1,9 @@
 
 <h1 align="center">✨ Hey there! I'm <span style="color:#00F0FF;">Marudhu</span> 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&width=600&lines=AI+%26+Data+Science+Student;Linux+%7C+Full+Stack+%7C+AI+in+Progress;Let's+Build%2C+Learn%2C+and+Grow+together+🚀" />
-</p>
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&multiline=true&width=750&lines=Engineering+Student+%7C+AI+%26+Data+Science;Linux+Lover+%7C+Full+Stack+Explorer+%7C+Dev+In+Progress;Let's+Build%2C+Learn%2C+and+Grow+Together+🚀" />
+</div>
 
 ---
 
