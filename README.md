@@ -2,7 +2,8 @@
 <h1 align="center">✨ Hey there! I'm <span style="color:#00F0FF;">Marudhu</span> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Engineering+student+in+AI+%26+Data+Science.;Lover+of+Linux%2C+Code%2C+and+Clean+UI.;Learning+Full+Stack+%7C+AI+%7C+DevOps.;Let%E2%80%99s+build%2C+learn%2C+grow+together!+🌱" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Engineering+student+in+AI+%26+Data+Science.;Lover+of+Linux%2C+Code%2C+and+Clean+UI.;Learning+Full+Stack+%7C+AI+%7C+DevOps.;Let%E2%80%99s+build%2C+learn%2C+grow+together!+🌱" alt="Typing animation" />
+
 </p>
 
 ---
@@ -25,7 +26,7 @@
 ## ⚒️ Tech Stack I Use & Love
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,linux,bash,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,c,linux,bash,git,github,vscode&perline=7" />
 </div>
 
 ---
