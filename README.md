@@ -46,7 +46,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marudhu30&show_icons=true&theme=radical&rank_icon=github&custom_title=Marudhu's+Code+Stats" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marudhu30&theme=radical&hide_border=false&border_radius=8.4" />
+  
 
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marudhu30&layout=compact&theme=radical&langs_count=10" />
