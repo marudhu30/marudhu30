@@ -13,13 +13,13 @@
 
 ```yaml
 🧠 Mindset:   Calm | Focused | Curious
-🛠️ Tech:      By the way i use ARCH
+🛠️ Tech:      BTW i use ARCH 
 🎧 Mood:      Music + Code = Flow 🎵
 ```
 
 - 🐧 Currently exploring: **Linux Ricing + Web Dev + AI Projects**
 - 💬 Ask me about: Anything tech, productivity, or One Piece theories 🤓
-- 🎓 Second-year student diving deep into dev & life
+- 🎓 UG student diving deep into dev & life
 
 ---
 
