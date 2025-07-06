@@ -31,15 +31,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| 🌟 Project | 💡 Description | 🔧 Tech |
-|-----------|----------------|---------|
-| [`college-projects-ai`](https://github.com/marudhu30/college-projects-ai) | My collection of AI & system-level college projects. | C, Python |
-| **Mobile Price Comparison** | Data analysis with Pandas + Visuals using Seaborn | Python, EDA |
-| **Flood Fill Simulation** | Recursive simulation of image fill logic | C, CLI Recursion |
-
----
 
 ## 📊 GitHub Stats
 
