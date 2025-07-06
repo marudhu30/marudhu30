@@ -26,7 +26,7 @@
 ## ⚒️ Tech Stack I Use & Love
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,c,linux,bash,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,c,linux,git,github,vscode&perline=7" />
 </div>
 
 ---
