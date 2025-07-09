@@ -30,11 +30,22 @@
 </div>
 
 ---
-
-
 ## 📊 GitHub Stats
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=marudhu30&show_icons=true&theme=radical&rank_icon=github&custom_title=Marudhu's+Code+Stats" alt="GitHub Stats" /> <br/><br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marudhu30&layout=compact&theme=radical&langs_count=10" alt="Top Languages" /> </div>
+<div align="center">
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marudhu30&theme=vue-dark&hide_border=true" alt="marudhu30's GitHub Streak" />
+  <br/><br/>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=marudhu30&show_icons=true&theme=radical&rank_icon=github&custom_title=Marudhu's+Code+Stats" alt="GitHub Stats" />
+  <br/><br/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marudhu30&layout=compact&theme=radical&langs_count=10" alt="Top Languages Used" />
+
+</div>
 
 ---
 
