@@ -13,7 +13,7 @@
 
 ```yaml
 🧠 Mindset:   Calm | Focused | Curious
-🛠️ Tech:      BTW i use ARCH 
+🛠️ Tech:      i use ARCH BTW
 🎧 Mood:      Music + Code = Flow 🎵
 ```
 
@@ -34,14 +34,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marudhu30&show_icons=true&theme=radical&rank_icon=github&custom_title=Marudhu's+Code+Stats" />
-  <br/><br/>
-  
-
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marudhu30&layout=compact&theme=radical&langs_count=10" />
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=marudhu30&show_icons=true&theme=radical&rank_icon=github&custom_title=Marudhu's+Code+Stats" alt="GitHub Stats" /> <br/><br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marudhu30&layout=compact&theme=radical&langs_count=10" alt="Top Languages" /> </div>
 
 ---
 
