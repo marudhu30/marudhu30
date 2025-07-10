@@ -37,8 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=marudhu30&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="marudhu30's GitHub Stats" />
   <br/><br/>
 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=marudhu30&theme=tokyonight&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
-  <br/><br/>
 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marudhu30&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="marudhu30's Top Languages" />
