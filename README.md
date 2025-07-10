@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=marudhu30&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="marudhu30's GitHub Stats" />
   <br/><br/>
 
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marudhu30&theme=vue-dark&hide_border=true" alt="marudhu30's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marudhu30&theme=vue-dark&hide_border=true" alt="marudhu30's GitHub Streak" />
   <br/><br/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marudhu30&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="marudhu30's Top Languages" />
