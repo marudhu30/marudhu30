@@ -43,6 +43,15 @@
 
 </div>
 
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marudhu30&theme=react-dark&bg_color=0d1117&color=00ffe4&line=00ffe4&point=ffffff&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+
 
 ---
 
