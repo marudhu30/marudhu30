@@ -34,12 +34,14 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=marudhu30&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="marudhu30's GitHub Stats" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&fontFamily=&preferLogin=true">
+    <img  alt="marudhu30's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/marudhu30?cardType=github&theme=github-dark&fontFamily=&preferLogin=true" />
+  </a>
   <br/><br/>
 
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marudhu30&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="marudhu30's Top Languages" />
+ 
 
 </div>
 
